@@ -1,0 +1,17 @@
+.wrapper {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color:    #04395e;
+    ;
+    display: flex;
+    padding: 5px;
+  }
+
+.input {
+    width: 100%;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--text);
+  }

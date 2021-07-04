@@ -1,0 +1,28 @@
+.wrapper {
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color:    #04395e;
+    ;
+    display: flex;
+    padding: 5px;
+  }
+
+  .input {
+    width: 100%;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .button {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #ffffff;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
